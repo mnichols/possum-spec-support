@@ -13,6 +13,8 @@ export default possum
     , namespace: 'spec-support'
 })
 .init(function(){
+    //no op. override to get emitter behaviors
+    this.emit = function(e) { }
     this.handled = (this.handled || {})
     this.transitioned = (this.transitioned || [])
     this.handling = function(inputType, args) {
