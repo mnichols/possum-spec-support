@@ -1,6 +1,6 @@
 {
   "name": "possum-spec-support",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Spec support for possums",
   "main": "dist/index.js",
   "babel": {
@@ -35,7 +35,7 @@
   "homepage": "https://github.com/mnichols/possum-spec-support#readme",
   "dependencies": {
     "possum": "^1.0.0",
-    "possum-tappable": "^1.0.4",
+    "possum-tappable": "^1.0.5",
     "stampit": "^2.1.1"
   },
   "devDependencies": {
