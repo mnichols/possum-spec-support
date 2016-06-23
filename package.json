@@ -1,6 +1,6 @@
 {
   "name": "possum-spec-support",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Spec support for possums",
   "main": "dist/index.js",
   "babel": {
